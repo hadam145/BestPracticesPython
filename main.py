@@ -1,0 +1,1 @@
+print("BEST PRACTICES - PYTHON")
